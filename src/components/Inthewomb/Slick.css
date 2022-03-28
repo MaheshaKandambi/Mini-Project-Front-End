@@ -1,0 +1,20 @@
+.byweek{
+    text-align: center;
+    text-decoration: none;
+    font-family: 'PT Serif', serif;
+    color: black;
+}
+
+.byweek:hover{
+    color: rgb(12, 96, 153);
+}
+
+.trime {
+    margin-bottom: 170px;
+}
+
+.third-info, .second-info, .first-info{
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 50px;
+}
